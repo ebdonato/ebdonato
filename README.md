@@ -1,18 +1,32 @@
-### Hi there 👋, my name is Eduardo Donato
+# Hi there 👋, my name is Eduardo Donato
 
-### 🙍‍♂️ I'm Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate) e Web/Mobile (Html, CSS and Javascript)
+## 🙍‍♂️ I'm Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate) e Web/Mobile (Html, CSS and Javascript)
 
 I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (UFV) and Post-graduated in Planning Engineering by PROMINP in partnership with the Federal University of Espírito Santo (UFES).
 
 💬 Ask me about VueJs, Javascript, Microsoft Power Platform, Excel (and VBA)
 
-#### 👔 Currently Full-time Job
+## 👔 Currently Full-time Job
 
 I'm mainly a full stack developer at Eltromarque LTDA responsible for the modeling, development and implementation of an Integrated Business Management System (ERP) using Quasar Framework as frontend and NodeJS/ExpressJS as backend.
 
 Secondarily also responsible for automating routine and / or repetitive processes through the development of applications and scripts (robots), development of Excel applications (macro / VBA), relating internal spreadsheets and SAP reports, and applications for the end user with Power Apps (Microsoft), responsible for the development and maintenance of management reports of contracts with Power BI.
 
-#### 🛠 Languages and Tools:
+## 💳 My Digital Business Card
+
+If you have Node.js installed:
+
+```bash
+npx ebdonato
+```
+
+Or a Docker alternative:
+
+```bash
+docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr/src/app node:14 npx ebdonato
+```
+
+## 🛠 Languages and Tools:
 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg' alt='vuejs' height='40'>](https://vuejs.org/)
 [<img src='https://cdn.quasar.dev/logo/svg/quasar-logo.svg' alt='quasar' height='40'>](https://quasar.dev/)
@@ -28,7 +42,7 @@ Secondarily also responsible for automating routine and / or repetitive processe
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='c++' height='40'>](https://www.w3schools.com/cpp/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40'>](https://www.python.org)
 
-#### 📫 How to reach me:
+## 📫 How to reach me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ebdonato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ebdonato)
@@ -40,7 +54,7 @@ Secondarily also responsible for automating routine and / or repetitive processe
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ebdonato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gravatar.com/ebdonato)
 
-#### ⚙ Some Stats
+## ⚙ Some Stats
 
 ![Profile views](https://gpvc.arturio.dev/ebdonato)
 
