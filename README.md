@@ -12,20 +12,6 @@ I'm mainly a full stack developer at Eltromarque LTDA responsible for the modeli
 
 Secondarily also responsible for automating routine and / or repetitive processes through the development of applications and scripts (robots), development of Excel applications (macro / VBA), relating internal spreadsheets and SAP reports, and applications for the end user with Power Apps (Microsoft), responsible for the development and maintenance of management reports of contracts with Power BI.
 
-## 💳 My Digital Business Card
-
-If you have Node.js installed:
-
-```bash
-npx ebdonato
-```
-
-Or a Docker alternative:
-
-```bash
-docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr/src/app node:14 npx ebdonato
-```
-
 ## 🛠 Languages and Tools:
 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg' alt='vuejs' height='40'>](https://vuejs.org/)
@@ -53,6 +39,36 @@ docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13250681/eduardo-donato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ebdonato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gravatar.com/ebdonato)
+
+## 💳 My Digital Business Card
+
+If you have Node.js installed:
+
+```bash
+npx ebdonato
+```
+
+Or a Docker alternative:
+
+```bash
+docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr/src/app node:14 npx ebdonato
+```
+
+## 📖 DevCard by [daily.dev](https://app.daily.dev/)
+
+[<img src="https://github.com/ebdonato/ebdonato/blob/main/devcard.svg" width="400" alt="Eduardo Donato's Dev Card"/>](https://app.daily.dev/DailyDevTips)
+
+Code to embed my DevCard card:
+
+```html
+<a href="https://app.daily.dev/ebdonato">
+    <img
+        src="https://api.daily.dev/devcards/4fae762ae48d46c2815770431cfddfd5.png?r=ncx"
+        width="400"
+        alt="Eduardo Donato's Dev Card"
+    />
+</a>
+```
 
 ## ⚙ Some Stats
 
