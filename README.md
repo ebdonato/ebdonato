@@ -8,7 +8,7 @@ I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (
 
 ## 👔 Currently Full-time Job
 
-I'm mainly a full stack developer at Eltromarque LTDA responsible for the modeling, development and implementation of an Integrated Business Management System (ERP) using Quasar Framework as frontend and NodeJS/ExpressJS as backend.
+I'm mainly a full stack developer at Eletromarquez LTDA responsible for the modeling, development and implementation of an Integrated Business Management System (ERP) using Quasar Framework as frontend and NodeJS/ExpressJS as backend.
 
 Secondarily also responsible for automating routine and / or repetitive processes through the development of applications and scripts (robots), development of Excel applications (macro / VBA), relating internal spreadsheets and SAP reports, and applications for the end user with Power Apps (Microsoft), responsible for the development and maintenance of management reports of contracts with Power BI.
 
@@ -30,15 +30,14 @@ Secondarily also responsible for automating routine and / or repetitive processe
 
 ## 📫 How to reach me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ebdonato)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ebdonato)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ebdonato/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ebdonato)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ebdonato/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ebdonato)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13250681/eduardo-donato)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ebdonato)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gravatar.com/ebdonato)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg' alt='github' height='40'>](https://github.com/ebdonato)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg' alt='dev' height='40'>](https://dev.to/ebdonato)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ebdonato/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ebdonato/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ebdonato)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13250681/eduardo-donato)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ebdonato)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gravatar.svg' alt='website' height='40'>](https://gravatar.com/ebdonato)
 
 ## 💳 My Digital Business Card
 
