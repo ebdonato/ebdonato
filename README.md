@@ -1,10 +1,12 @@
-# Hi there 👋, my name is Eduardo Donato
+# 👋 Oie, my name is Eduardo Donato
 
-## 🙍‍♂️ I'm Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate) e Web/Mobile (Html, CSS and Javascript)
+## 🙍‍♂️ Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
 
 I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (UFV) and Post-graduated in Planning Engineering by PROMINP in partnership with the Federal University of Espírito Santo (UFES).
 
 💬 Ask me about VueJs, Javascript, Microsoft Power Platform, Excel (and VBA)
+
+---
 
 ## 👔 Currently Full-time Job
 
@@ -12,23 +14,30 @@ I'm mainly a full stack developer at Eletromarquez LTDA responsible for the mode
 
 Secondarily also responsible for automating routine and / or repetitive processes through the development of applications and scripts (robots), development of Excel applications (macro / VBA), relating internal spreadsheets and SAP reports, and applications for the end user with Power Apps (Microsoft), responsible for the development and maintenance of management reports of contracts with Power BI.
 
+---
+
 ## 🛠 Languages and Tools:
 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg' alt='vuejs' height='40'>](https://vuejs.org/)
-[<img src='https://cdn.quasar.dev/logo/svg/quasar-logo.svg' alt='quasar' height='40'>](https://quasar.dev/)
-[<img src='https://bestofjs.org/logos/vuetify.svg' alt='vuetify' height='40'>](https://vuetifyjs.com/en/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='html5' height='40'>](https://www.w3.org/html/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' height='40'>](https://nodejs.org)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' alt='expressjs' height='40'>](https://expressjs.com)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='electron' height='40'>](https://www.electronjs.org)
-[<img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt='firebase' height='40'>](https://firebase.google.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' alt='postgres' height='40'>](https://www.postgresql.org)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg' alt='wxwidgets' height='40'>](https://www.wxwidgets.org/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='c++' height='40'>](https://www.w3schools.com/cpp/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40'>](https://www.python.org)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg' alt='vuejs' height='32'>](https://vuejs.org/) Vue.js
+[<img src='https://cdn.quasar.dev/logo/svg/quasar-logo.svg' alt='quasar' height='32'>](https://quasar.dev/) Quasar Framework
+[<img src='https://bestofjs.org/logos/vuetify.svg' alt='vuetify' height='32'>](https://vuetifyjs.com/en/) Vuetify Vue UI Library
+[<img src='https://img.icons8.com/color/48/000000/power-bi.png' alt='power-bi' height='32'>](https://powerbi.microsoft.com/) Power BI
+[<img src='https://img.icons8.com/fluency/48/000000/microsoft-power-apps-2020.png' alt='power-apps' height='32'>](https://powerapps.microsoft.com/) Power Apps
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' height='32'>](https://nodejs.org) Node.js
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' alt='expressjs' height='32'>](https://expressjs.com) Express
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='electron' height='32'>](https://www.electronjs.org) Electron
+[<img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt='firebase' height='32'>](https://firebase.google.com/) Firebase
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' alt='postgres' height='32'>](https://www.postgresql.org) PostgreSQL
+[<img src='https://github.com/knex/documentation/raw/gh-pages/assets/favicons/android-chrome-192x192.png' alt='knex' height='32'>](https://knexjs.org/) Knex.js
+[<img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg' alt='wxwidgets' height='32'>](https://www.wxwidgets.org/) wxWidgets
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' alt='vs-code' height='32'>](https://www.wxwidgets.org/) VS Code
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='javascript' height='32'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) Javascript
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='c++' height='32'>](https://www.w3schools.com/cpp/) C++
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='32'>](https://www.python.org) Python
 
-## 📫 How to reach me:
+---
+
+## 📫 How to reach me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg' alt='github' height='40'>](https://github.com/ebdonato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg' alt='dev' height='40'>](https://dev.to/ebdonato)
@@ -38,6 +47,8 @@ Secondarily also responsible for automating routine and / or repetitive processe
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13250681/eduardo-donato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ebdonato)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gravatar.svg' alt='website' height='40'>](https://gravatar.com/ebdonato)
+
+---
 
 ## 💳 My Digital Business Card
 
@@ -52,6 +63,8 @@ Or a Docker alternative:
 ```bash
 docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr/src/app node:14 npx ebdonato
 ```
+
+---
 
 ## 📖 DevCard by [daily.dev](https://app.daily.dev/)
 
@@ -68,6 +81,8 @@ Code to embed my DevCard card:
     />
 </a>
 ```
+
+---
 
 ## ⚙ Some Stats
 
