@@ -60,21 +60,7 @@ I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (
 <p>
     <h2 align="center">
         <b>
-            👔 Currently Full-time Job
-        </b>
-    </h2>
-</p>
-
-I'm mainly a full stack developer at Eletromarquez LTDA responsible for the modeling, development and implementation of an Integrated Business Management System (ERP) using Quasar Framework as frontend and NodeJS/ExpressJS as backend.
-
-Secondarily also responsible for automating routine and / or repetitive processes through the development of applications and scripts (robots), development of Excel applications (macro / VBA), relating internal spreadsheets and SAP reports, and applications for the end user with Power Apps (Microsoft), responsible for the development and maintenance of management reports of contracts with Power BI.
-
-<br/>
-
-<p>
-    <h2 align="center">
-        <b>
-            🧰 Languages and Tools
+            🧰 Tools
         </b>
     </h2>
 </p>
@@ -87,26 +73,27 @@ Secondarily also responsible for automating routine and / or repetitive processe
 			<td><a href="https://vuejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt='Vue.js' height='60'></a></td>
 			<td><a href="https://quasar.dev/" target="_blank"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt='Quasar Framework' height='60'></a></td>
 			<td><a href="https://vuetifyjs.com/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt='Vuetify Vue UI Library' height='60'></a></td>
-			<td><a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt='Electron' height='60'></a></td>
 		</tr>
 		<tr>
+			<td><a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt='Electron' height='60'></a></td>
 			<td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=' Node.js' height='60'></a></td>
 			<td><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt='Express' height='60'></a></td>
-			<td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt='Firebase' height='60'></a></td>
-            <td><a href="" target="_blank"><img src="" alt='' height='60'></a></td>
 		</tr>
 		<tr>
+			<td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt='Firebase' height='60'></a></td>
 			<td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt='PostgreSQL' height='60'></a></td>
 			<td><a href="https://knexjs.org" target="_blank"><img src="https://github.com/knex/documentation/raw/gh-pages/assets/favicons/android-chrome-192x192.png" alt='Knex.js' height='60'></a></td>
-			<td><a href="https://www.wxwidgets.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt='wxWidgets' height='60'></a></td>
-			<td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt='VS Code' height='60'></a></td>
 		</tr>
         <tr>
-			<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='Javascript' height='60'></a></td>
-			<td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt='C++' height='60'></a></td>
+			<td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt='VS Code' height='60'></a></td>
             <td><a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt='Power BI' height='60'></a></td>
             <td><a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-power-apps-2020.png" alt='Power Apps' height='60'></a></td>
 		</tr>
+        <tr>
+            <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt='Javascript' height='60'></a></td>
+            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='Javascript' height='60'></a></td>
+            <td></td>
+        </tr>
 	</tbody>
 </table>
 
@@ -115,7 +102,7 @@ Secondarily also responsible for automating routine and / or repetitive processe
 <p>
     <h2 align="center">
         <b>
-            💳 My Digital Business Card
+            💳 Digital Business Card
         </b>
     </h2>
 </p>
@@ -137,7 +124,7 @@ docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr
 <p>
     <h2 align="center">
         <b>
-            ⚙ Some Stats
+            ⚙ Stats
         </b>
     </h2>
 </p>
