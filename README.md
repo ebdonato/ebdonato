@@ -1,10 +1,12 @@
 <p>
     <h1 align="center">
         <b>
-            👋 Oie, my name is Eduardo Donato
+            👋 Oie, I'm Eduardo Donato
         </b>
     </h1>
 </p>
+
+[![Eduardo Donato, Microsoft Power Platform and Modern Web Full Stack Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Microsoft%20Power%20Platform%20and%20Modern%20Web%20Full%20Stack%20Developer&title=ebdonato)](https://pimp-my-readme.webapp.io)
 
 <p align="center">
     Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
@@ -33,14 +35,11 @@ I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (
 </p>
 
 <p align="center">
-    <a href="https://github.com/ebdonato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg' alt='github' height='40'></a>
-    <a href="https://dev.to/ebdonato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg' alt='dev' height='40'></a>
-    <a href="https://www.linkedin.com/in/ebdonato/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg' alt='linkedin' height='40'></a>
-    <a href="https://www.instagram.com/ebdonato/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg' alt='instagram' height='40'></a>
-    <a href="https://twitter.com/ebdonato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg' alt='twitter' height='40'>
-    <a href="https://stackoverflow.com/users/13250681/eduardo-donato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>
-    <a href="https://www.reddit.com/user/ebdonato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg' alt='Reddit' height='40'>
-    <a href="https://gravatar.com/ebdonato" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gravatar.svg' alt='website' height='40'></a>
+    <a href="https://www.linkedin.com/in/ebdonato/" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn' alt='linkedin' height='60'></a>
+    <a href="https://www.instagram.com/ebdonato/" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram' alt='instagram' height='60'></a>
+    <a href="https://twitter.com/ebdonato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter' alt='twitter' height='60'>
+    <a href="https://www.reddit.com/user/ebdonato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Reddit' alt='Reddit' height='60'>
+    <a href="https://stackoverflow.com/users/13250681/eduardo-donato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Stack%20Overflow' alt='stackoverflow' height='60'></a>
 </p>
 
 <p align="center">
