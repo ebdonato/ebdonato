@@ -80,7 +80,7 @@ Secondarily also responsible for automating routine and / or repetitive processe
 
 <br/>
 
-<table border="0"  align="center">
+<table border="0" cellpadding="5" cellspacing="15" align="center">
 	<tbody>
 		<tr>
 			<td><a href="https://vuejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt='Vue.js' height='60'></a></td>
