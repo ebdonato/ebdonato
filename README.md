@@ -9,7 +9,9 @@
 [![Eduardo Donato, Microsoft Power Platform and Modern Web Full Stack Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Microsoft%20Power%20Platform%20and%20Modern%20Web%20Full%20Stack%20Developer&title=ebdonato)](https://pimp-my-readme.webapp.io)
 
 <p align="center">
-    Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
+    <small>
+        Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
+    </small>
 </p>
 
 <br/>
@@ -37,9 +39,8 @@ I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (
 <p align="center">
     <a href="https://www.linkedin.com/in/ebdonato/" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn' alt='linkedin' height='60'></a>
     <a href="https://www.instagram.com/ebdonato/" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram' alt='instagram' height='60'></a>
-    <a href="https://twitter.com/ebdonato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter' alt='twitter' height='60'>
-    <a href="https://www.reddit.com/user/ebdonato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Reddit' alt='Reddit' height='60'>
-    <a href="https://stackoverflow.com/users/13250681/eduardo-donato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Stack%20Overflow' alt='stackoverflow' height='60'></a>
+    <a href="https://twitter.com/ebdonato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter' alt='twitter' height='60'></a>
+    <a href="https://www.reddit.com/user/ebdonato" target="_blank"><img src='https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Reddit' alt='Reddit' height='60'></a>
 </p>
 
 <p align="center">
