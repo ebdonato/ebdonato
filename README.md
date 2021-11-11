@@ -24,7 +24,7 @@
     </h2>
 </p>
 
-I am an Electrical Engineer graduated from the Universidade Federal of Viçosa (UFV) and Post-graduated in Planning Engineering by PROMINP in partnership with the Federal University of Espírito Santo (UFES).
+I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (UFV) and post-graduated in Planning Engineering by PROMINP in partnership with the Universidade Federal do Espírito Santo (UFES).
 
 <br/>
 
