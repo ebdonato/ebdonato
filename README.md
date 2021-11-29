@@ -92,7 +92,7 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
         <tr>
             <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt='Javascript' height='60'></a></td>
             <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='Javascript' height='60'></a></td>
-            <td></td>
+            <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt='Typescript' height='60'></a></td>
         </tr>
 	</tbody>
 </table>
