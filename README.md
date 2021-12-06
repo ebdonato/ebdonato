@@ -96,7 +96,7 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
         </tr>
         <tr>
             <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt='Javascript' height='60'></a></td>
-            <td></td>
+            <td><a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='React' height='60'></a></td>
             <td></td>
         </tr>
 	</tbody>
