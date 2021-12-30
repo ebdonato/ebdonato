@@ -71,9 +71,14 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
 	<tbody>
 		<tr>
 			<td><a href="https://vuejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt='Vue.js' height='60'></a></td>
-			<td><a href="https://quasar.dev/" target="_blank"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt='Quasar Framework' height='60'></a></td>
-			<td><a href="https://vuetifyjs.com/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt='Vuetify Vue UI Library' height='60'></a></td>
+            <td><a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='React' height='60'></a></td>
+            <td></td>
 		</tr>
+        <tr>
+			<td><a href="https://quasar.dev/" target="_blank"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt='Quasar Framework' height='60'></a></td>
+            <td><a href="https://vuetifyjs.com/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt='Vuetify Vue UI Library' height='60'></a></td>
+            <td></td>
+        </tr>
 		<tr>
 			<td><a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt='Electron' height='60'></a></td>
 			<td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=' Node.js' height='60'></a></td>
@@ -95,8 +100,8 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
             <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt='Typescript' height='60'></a></td>
         </tr>
         <tr>
-            <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt='Javascript' height='60'></a></td>
-            <td><a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='React' height='60'></a></td>
+            <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt='docker' height='60'></a></td>
+            <td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt='kubernetes' height='60'></a></td>
             <td></td>
         </tr>
 	</tbody>
