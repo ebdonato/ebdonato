@@ -95,14 +95,14 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
             <td><a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-power-apps-2020.png" alt='Power Apps' height='60'></a></td>
 		</tr>
         <tr>
-            <td><a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt='GraphQL' height='60'></a></td>
             <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='Javascript' height='60'></a></td>
             <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt='Typescript' height='60'></a></td>
+            <td><a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt='GO Lang' height='60'></a></td>
         </tr>
         <tr>
+            <td><a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt='GraphQL' height='60'></a></td>
             <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt='docker' height='60'></a></td>
             <td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt='kubernetes' height='60'></a></td>
-            <td></td>
         </tr>
 	</tbody>
 </table>
