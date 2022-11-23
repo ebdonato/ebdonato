@@ -2,8 +2,6 @@
 
 # 👋 Oie, I'm Eduardo Donato
 
-[![Eduardo Donato, Microsoft Power Platform and Modern Web Full Stack Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Microsoft%20Power%20Platform%20and%20Modern%20Web%20Full%20Stack%20Developer&title=ebdonato)](https://pimp-my-readme.webapp.io)
-
 Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
 
 # 🙍‍♂️ About me
