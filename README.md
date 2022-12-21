@@ -14,6 +14,8 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebdonato)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ebdonato)
 
+🌎 My portfolio: [https://www.donato.vip](https://www.donato.vip)
+
 💬 Ask me about VueJs, ReactJs, Javascript, Microsoft Power Platform, Excel (and VBA)
 
 🕒 Timezone: South America/Brasília (BRT) UTC -3
