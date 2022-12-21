@@ -36,6 +36,8 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
 [![quasar](https://img.shields.io/badge/quasar-%231976D2?style=for-the-badge&logo=quasar&logoColor=white)](https://www.quasar.dev)
 [![react](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.reactjs.org)
 [![vuejs](https://img.shields.io/badge/vuejs-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://www.vuejsjs.org)
+[![powerbi](https://img.shields.io/badge/powerbi-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![powerfx](https://img.shields.io/badge/powerfx-%237F2157?style=for-the-badge&logo=powerfx&logoColor=white)](https://learn.microsoft.com/en-us/power-platform/power-fx/overview)
 
 ## 💳 Digital Business Card
 
