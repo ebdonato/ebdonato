@@ -1,4 +1,4 @@
-# 👋 Oie, I'm Eduardo Donato
+# 👋 Oie, I'm [Eduardo Donato](https://dev.page/ebdonato)
 
 Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
 
@@ -14,7 +14,9 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebdonato)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ebdonato)
 
-🌎 My portfolio: [https://www.donato.vip](https://www.donato.vip)
+🧑‍💻 I'm currently working for [Dock Tech](https://dock.tech) (all day job) 
+
+🌎 My personal portfolio: [https://www.donato.vip](https://www.donato.vip)
 
 💬 Ask me about VueJs, ReactJs, Javascript, Microsoft Power Platform, Excel (and VBA)
 
