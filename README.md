@@ -18,7 +18,7 @@ I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (
 
 🌎 My personal portfolio: [https://www.donato.vip](https://www.donato.vip)
 
-💬 Ask me about VueJs, ReactJs, Javascript, Microsoft Power Platform, Excel (and VBA)
+💬 Ask me about VueJs, ReactJs, Javascript, Typescript, Nodejs, Go Lang, Microsoft Power Platform, Excel (and VBA)
 
 🕒 Timezone: South America/Brasília (BRT) UTC -3
 
