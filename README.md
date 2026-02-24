@@ -57,12 +57,6 @@ Or a Docker alternative:
 docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr/src/app node:14 npx ebdonato
 ```
 
-## ⚙ Stats
-
-<a href="https://app.daily.dev/ebdonato"><img src="https://api.daily.dev/devcards/v2/zzENcP0Elt3Iu1aTztYMe.png?type=wide&r=9t3" width="652" alt="Eduardo Donato's Dev Card"/></a>
-
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebdonato&layout=compact&theme=ayu-mirage&hide_border=true)
-
 ## 📝 Made with
 
 -   [Shields.io](https://shields.io/)
