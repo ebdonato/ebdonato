@@ -1,63 +1,96 @@
-# 👋 Oie, I'm [Eduardo Donato](https://dev.page/ebdonato)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Eduardo%20DONATO&desc=Full%20Stack%20Developer&descAlign=70&descSize=25&descAlignY=70&reversal=false" alt="Header" />
+</div>
 
-Full Stack Developer (Vue.js and Node.js) and Microsoft Power Platform Developer (Power BI, Power Apps and Power Automate)
+<div align="center">
 
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebdonato)
+[![Portfolio](https://img.shields.io/badge/Contacts-2563EB?style=for-the-badge&logo=devcommunity&logoColor=white)](https://navto.me/ebdonato)
 
-## 🙍‍♂️ About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Electrical+Engineer;Go+Lang+Specialist;Software+Engineer+%40+Dock)](https://git.io/typing-svg)
 
-I am an Electrical Engineer graduated from the Universidade Federal de Viçosa (UFV) and post-graduated in Planning Engineering by PROMINP in partnership with the Universidade Federal do Espírito Santo (UFES).
+</div>
 
-## 📫 How to reach me
+## 👨‍💻 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ebdonato)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebdonato)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ebdonato)
+Welcome to my profile! I'm an **Electrical Engineer** and **Go Lang Specialist**, currently thriving as a **Software Engineer at [Dock](https://dock.tech/)**. My career is a unique journey: from building industrial measurement and control systems, and steering major capital projects, to transitioning fully into the tech world to engineer sophisticated full-stack web applications. I am passionate about solving complex challenges, designing scalable architectures, and shipping code that provides high value.
 
-🧑‍💻 I'm currently working for [Dock Tech](https://dock.tech) (all day job)
+- ⚙️ **Current Focus:** Developing seamless financial backoffice products and resilient APIs using **Go**, **Node.js**, **React**, and **Python**.
+- 🎓 **Education:** Postgraduate degrees in Planning Engineering & Go Language ; B.S. in Electrical Engineering.
+- 💡 **Interests:** Domain-Driven Design (DDD), GraphQL, AI Software Engineering, and highly concurrent architectures.
+- 🗣️ **Languages:** Portuguese (Native) | English (Advanced)
+- ⚡ **Fun Fact:** I transitioned to software development after managing power measurement field teams of over 100 employees and streamlining energy project supply chains!
 
-🌎 My personal portfolio: [https://www.donato.vip](https://www.donato.vip)
+## 🛠️ Tech Stack & Arsenal
 
-💬 Ask me about VueJs, ReactJs, Javascript, Typescript, Nodejs, Go Lang, Microsoft Power Platform, Excel (and VBA)
+<details open>
+  <summary><b>Frontend & UI</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </p>
+</details>
 
-🕒 Timezone: South America/Brasília (BRT) UTC -3
+<details open>
+  <summary><b>Backend & Databases</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  </p>
+</details>
 
-## 🧰 Tools'n'Techs
+<details open>
+  <summary><b>Tools, Cloud & Others</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </p>
+</details>
 
-[![vuejs](https://img.shields.io/badge/vuejs-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://www.vuejsjs.org)
-[![react](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.reactjs.org)
-[![cplusplus](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp)
-[![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![typescript](https://img.shields.io/badge/typescript-%233776AB?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![python](https://img.shields.io/badge/python-%233178C6?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![golang](https://img.shields.io/badge/golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
-[![powerfx](https://img.shields.io/badge/powerfx-%237F2157?style=for-the-badge&logo=powerfx&logoColor=white)](https://learn.microsoft.com/en-us/power-platform/power-fx/overview)
-[![powerbi](https://img.shields.io/badge/powerbi-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![node.js](https://img.shields.io/badge/node-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.nodejs.org)
-[![docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![electron](https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
-[![express](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white)](https://www.expressjs.com)
-[![firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![graphql](https://img.shields.io/badge/graphql-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
-[![quasar](https://img.shields.io/badge/quasar-%231976D2?style=for-the-badge&logo=quasar&logoColor=white)](https://www.quasar.dev)
-[![pwa](https://img.shields.io/badge/pwa-%235A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+## 💼 Professional Highlights
+
+> **Software Engineer** @ [Dock](https://www.dock.tech/) <br>
+> *Nov 2021 - Present* <br>
+> Developing robust financial backoffice product applications using React, JavaScript/TypeScript, and Python. Fully responsible for implementing complex APIs, ensuring code quality, and delivering scalable architectural solutions.
+
+> **Development Analyst** @ Eletromarquez <br>
+> *Apr 2020 - Nov 2021* <br>
+> Played a pivotal role in digital transformation by modeling and implementing a complete Integrated Business Management System (ERP) using Vue.js, Node.js, and PostgreSQL. Developed tailored Power Apps, SharePoint applications, and detailed Power BI dashboards.
+
+> **Operations Coordinator & Planning Analyst** @ Eletromarquez & Time-Now Engenharia <br>
+> *Mar 2017 - Mar 2020* <br>
+> Managed field teams of ~100 employees, analyzed KPIs, improved supply chain processes for high-voltage energy projects, and automated routines via VBA macros and custom Android applications.
+
+> **Project / Planning Engineer** @ Technip, DUCTOR, MCA <br>
+> *Jun 2012 - Oct 2016* <br>
+> Engineered and managed industrial operations, major railway logistics (Vale S.A.), and flexible pipe manufacturing. Handled strategic OPEX planning, FEL project methodology, and supply process optimization.
 
 ## 💳 Digital Business Card
 
-If you have Node.js installed:
+If you have Node.js installed, just pop this into your terminal:
 
 ```bash
 npx ebdonato
 ```
 
-Or a Docker alternative:
+<br>
 
-```bash
-docker run -it --rm --name ebdonato-business-card -v ${PWD}:/usr/src/app -w /usr/src/app node:14 npx ebdonato
-```
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
 
-## 📝 Made with
-
--   [Shields.io](https://shields.io/)
--   [Simple Icons](https://simpleicons.org/)
+<div align="center">
+  <i>Let's build something amazing together. 🚀</i>
+</div>
